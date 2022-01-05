@@ -1,5 +1,8 @@
 {
   "tokenImages": {
-	"CRDR#": "https://cdn.discordapp.com/attachments/928254096211853352/928254161798168576/image.png"
+	"CRDR#": "https://cdn.discordapp.com/attachments/928254096211853352/928254161798168576/image.png",
+	  "COC#": "https://cdn.discordapp.com/attachments/928254096211853352/928276712180052038/image.png",
+	  "IRDE#": "https://cdn.discordapp.com/attachments/928254096211853352/928277101730201650/image.png",
+	  "Lightning Rail": "https://i.imgur.com/CQoJpiy.png"
   }
 }
